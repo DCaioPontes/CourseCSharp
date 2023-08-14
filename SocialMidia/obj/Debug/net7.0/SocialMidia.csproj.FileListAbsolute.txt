@@ -1,0 +1,15 @@
+C:\Users\caiop\RiderProjects\Course\SocialMidia\bin\Debug\net7.0\SocialMidia.exe
+C:\Users\caiop\RiderProjects\Course\SocialMidia\bin\Debug\net7.0\SocialMidia.deps.json
+C:\Users\caiop\RiderProjects\Course\SocialMidia\bin\Debug\net7.0\SocialMidia.runtimeconfig.json
+C:\Users\caiop\RiderProjects\Course\SocialMidia\bin\Debug\net7.0\SocialMidia.dll
+C:\Users\caiop\RiderProjects\Course\SocialMidia\bin\Debug\net7.0\SocialMidia.pdb
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\SocialMidia.csproj.AssemblyReference.cache
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\SocialMidia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\SocialMidia.AssemblyInfoInputs.cache
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\SocialMidia.AssemblyInfo.cs
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\SocialMidia.csproj.CoreCompileInputs.cache
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\SocialMidia.dll
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\refint\SocialMidia.dll
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\SocialMidia.pdb
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\SocialMidia.genruntimeconfig.cache
+C:\Users\caiop\RiderProjects\Course\SocialMidia\obj\Debug\net7.0\ref\SocialMidia.dll

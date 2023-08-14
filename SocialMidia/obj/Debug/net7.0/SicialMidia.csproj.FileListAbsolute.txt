@@ -1,0 +1,15 @@
+C:\Users\caiop\RiderProjects\Course\SicialMidia\bin\Debug\net7.0\SicialMidia.exe
+C:\Users\caiop\RiderProjects\Course\SicialMidia\bin\Debug\net7.0\SicialMidia.deps.json
+C:\Users\caiop\RiderProjects\Course\SicialMidia\bin\Debug\net7.0\SicialMidia.runtimeconfig.json
+C:\Users\caiop\RiderProjects\Course\SicialMidia\bin\Debug\net7.0\SicialMidia.dll
+C:\Users\caiop\RiderProjects\Course\SicialMidia\bin\Debug\net7.0\SicialMidia.pdb
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\SicialMidia.csproj.AssemblyReference.cache
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\SicialMidia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\SicialMidia.AssemblyInfoInputs.cache
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\SicialMidia.AssemblyInfo.cs
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\SicialMidia.csproj.CoreCompileInputs.cache
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\SicialMidia.dll
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\refint\SicialMidia.dll
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\SicialMidia.pdb
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\SicialMidia.genruntimeconfig.cache
+C:\Users\caiop\RiderProjects\Course\SicialMidia\obj\Debug\net7.0\ref\SicialMidia.dll

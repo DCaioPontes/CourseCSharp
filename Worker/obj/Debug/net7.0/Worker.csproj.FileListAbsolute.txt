@@ -1,0 +1,15 @@
+C:\Users\caiop\RiderProjects\Course\Worker\bin\Debug\net7.0\Worker.exe
+C:\Users\caiop\RiderProjects\Course\Worker\bin\Debug\net7.0\Worker.deps.json
+C:\Users\caiop\RiderProjects\Course\Worker\bin\Debug\net7.0\Worker.runtimeconfig.json
+C:\Users\caiop\RiderProjects\Course\Worker\bin\Debug\net7.0\Worker.dll
+C:\Users\caiop\RiderProjects\Course\Worker\bin\Debug\net7.0\Worker.pdb
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\Worker.csproj.AssemblyReference.cache
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\Worker.AssemblyInfoInputs.cache
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\Worker.AssemblyInfo.cs
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\Worker.dll
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\refint\Worker.dll
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\Worker.pdb
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\Worker.genruntimeconfig.cache
+C:\Users\caiop\RiderProjects\Course\Worker\obj\Debug\net7.0\ref\Worker.dll

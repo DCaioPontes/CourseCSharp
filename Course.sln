@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course", "Course\Course.csproj", "{0F7D667B-E92D-48EC-808B-CD78ED9ABFCD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csproj", "{0F7D667B-E92D-48EC-808B-CD78ED9ABFCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMidia", "SocialMidia\SocialMidia.csproj", "{ED026449-9B50-4150-828E-FE98AF395405}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{0F7D667B-E92D-48EC-808B-CD78ED9ABFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F7D667B-E92D-48EC-808B-CD78ED9ABFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F7D667B-E92D-48EC-808B-CD78ED9ABFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED026449-9B50-4150-828E-FE98AF395405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED026449-9B50-4150-828E-FE98AF395405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED026449-9B50-4150-828E-FE98AF395405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED026449-9B50-4150-828E-FE98AF395405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
