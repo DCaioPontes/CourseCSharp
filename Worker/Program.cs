@@ -1,8 +1,8 @@
 ﻿using System.Globalization;
-using Work.Entities;
-using Work.Entities.Enum;
+using Course.Entities;
+using Course.Entities.Enum;
 
-namespace Work;
+namespace Course;
 
 internal class Program
 {

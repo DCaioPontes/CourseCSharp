@@ -1,4 +1,4 @@
-﻿namespace Work.Entities.Enum;
+﻿namespace Course.Entities.Enum;
 
 public enum WorkerLevel : int
 { 

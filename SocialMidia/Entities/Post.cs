@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace SocialMidia.Entities;
+namespace SicialMidia.Entities;
 
 public class Post
 {

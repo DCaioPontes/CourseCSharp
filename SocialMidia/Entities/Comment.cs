@@ -1,4 +1,4 @@
-﻿namespace SocialMidia.Entities;
+﻿namespace SicialMidia.Entities;
 
 public class Comment
 {

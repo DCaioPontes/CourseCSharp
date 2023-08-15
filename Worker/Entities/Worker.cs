@@ -1,6 +1,6 @@
-﻿using Work.Entities.Enum;
+﻿using Course.Entities.Enum;
 
-namespace Work.Entities;
+namespace Course.Entities;
 
 public class Worker
 {

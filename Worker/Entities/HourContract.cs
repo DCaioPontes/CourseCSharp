@@ -1,4 +1,4 @@
-﻿namespace Work.Entities;
+﻿namespace Course.Entities;
 
 public class HourContract
 {
