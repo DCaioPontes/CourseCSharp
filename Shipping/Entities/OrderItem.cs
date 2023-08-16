@@ -19,6 +19,12 @@ public class OrderItem
 
     public double SubTotal()
     {
-        return Price *= Quantity;
+        double price = Product.Price * Quantity;
+        return price;
+    }
+
+    public override string ToString()
+    {
+        return $"{Product.Name}, {Price}, Quantity: {Quantity}, Subtotal {SubTotal()}";
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\Shipping.csproj.AssemblyReference.cache
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfoInputs.cache
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\Shipping.AssemblyInfo.cs
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\caiop\RiderProjects\Course\Shipping\bin\Debug\net7.0\Shipping.exe
+C:\Users\caiop\RiderProjects\Course\Shipping\bin\Debug\net7.0\Shipping.deps.json
+C:\Users\caiop\RiderProjects\Course\Shipping\bin\Debug\net7.0\Shipping.runtimeconfig.json
+C:\Users\caiop\RiderProjects\Course\Shipping\bin\Debug\net7.0\Shipping.dll
+C:\Users\caiop\RiderProjects\Course\Shipping\bin\Debug\net7.0\Shipping.pdb
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\Shipping.dll
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\refint\Shipping.dll
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\Shipping.pdb
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\Shipping.genruntimeconfig.cache
+C:\Users\caiop\RiderProjects\Course\Shipping\obj\Debug\net7.0\ref\Shipping.dll
