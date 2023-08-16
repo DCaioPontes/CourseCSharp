@@ -46,8 +46,9 @@ public class Order
     public override string ToString()
     {
         StringBuilder sb = new StringBuilder();
+        sb.AppendLine("ORDER SUMMARY:");
         sb.AppendLine("Order Moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
-        sb.Append("Order status: " + Status);
+        sb.AppendLine("Order status: " + Status);
         sb.AppendLine($"Client: {Client.Name} {Client.BirthDate.ToString("dd/MM/yyyy")} - {Client.Email}");
         sb.AppendLine("Order items:");
         foreach (var item in Item)

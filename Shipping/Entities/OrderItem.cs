@@ -25,6 +25,6 @@ public class OrderItem
 
     public override string ToString()
     {
-        return $"{Product.Name}, {Price}, Quantity: {Quantity}, Subtotal {SubTotal()}";
+        return $"{Product.Name}, ${Price.ToString("f2")}, Quantity: {Quantity}, Subtotal ${SubTotal().ToString("F2")}";
     }
 }
