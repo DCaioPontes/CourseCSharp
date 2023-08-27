@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipping", "Shipping\Shippi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{07AC08BA-FC4D-4882-B27C-F24224A4CDD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance Employee", "Inheritance Employee\Inheritance Employee.csproj", "{8763ADEA-0909-43D9-9789-4ABD391B09EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{07AC08BA-FC4D-4882-B27C-F24224A4CDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07AC08BA-FC4D-4882-B27C-F24224A4CDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07AC08BA-FC4D-4882-B27C-F24224A4CDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8763ADEA-0909-43D9-9789-4ABD391B09EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8763ADEA-0909-43D9-9789-4ABD391B09EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8763ADEA-0909-43D9-9789-4ABD391B09EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8763ADEA-0909-43D9-9789-4ABD391B09EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

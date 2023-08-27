@@ -9,8 +9,6 @@ O
 Worker/Entities/HourContract.cs,f\3\f3f62350d9f90e13c534d2dcd12458d846c2d877
 F
 SocialMidia/Program.cs,2\8\287bee5daf467aea5a195dc7f7491a7ea1caa247
-A
-Worker/Program.cs,5\2\52105d67fabb56095ab9e8f4ae35c2c4c2ab1c42
 I
 Worker/Entities/Worker.cs,0\7\0781939779e113e4d1e680e12187bc5e225805e5
 L
@@ -27,3 +25,13 @@ J
 Shipping/Entities/Order.cs,3\d\3def6e6ba88b9115cf15838788630c377368c1a0
 N
 Shipping/Entities/OrderItem.cs,b\2\b275c5c46b1784863afbdc8c62236ea454aca120
+O
+Inheritance/Entities/Account.cs,2\d\2d971e5a33286504770cb21f64712945719af8ce
+W
+'Inheritance/Entities/BussinesAccount.cs,3\f\3f5011d1569254836750881915e22c1d4390799a
+V
+&Inheritance/Entities/SavingsAccount.cs,4\2\42f8d37fe1a09a31c1658d61aafb76a41f6b997e
+F
+Inheritance/Program.cs,4\2\42b8e5fb4df8844ff50d61512052327cbae23a49
+A
+Worker/Program.cs,5\2\52105d67fabb56095ab9e8f4ae35c2c4c2ab1c42

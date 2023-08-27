@@ -1,0 +1,15 @@
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\bin\Debug\net7.0\Inheritance Employee.exe
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\bin\Debug\net7.0\Inheritance Employee.deps.json
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\bin\Debug\net7.0\Inheritance Employee.runtimeconfig.json
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\bin\Debug\net7.0\Inheritance Employee.dll
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\bin\Debug\net7.0\Inheritance Employee.pdb
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\Inheritance Employee.csproj.AssemblyReference.cache
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\Inheritance Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\Inheritance Employee.AssemblyInfoInputs.cache
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\Inheritance Employee.AssemblyInfo.cs
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\Inheritance Employee.csproj.CoreCompileInputs.cache
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\Inheritance Employee.dll
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\refint\Inheritance Employee.dll
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\Inheritance Employee.pdb
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\Inheritance Employee.genruntimeconfig.cache
+C:\Users\caiop\RiderProjects\Course\Inheritance Employee\obj\Debug\net7.0\ref\Inheritance Employee.dll
