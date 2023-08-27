@@ -1,0 +1,15 @@
+C:\Users\caiop\RiderProjects\Course\ImportProduct\bin\Debug\net7.0\ImportProduct.exe
+C:\Users\caiop\RiderProjects\Course\ImportProduct\bin\Debug\net7.0\ImportProduct.deps.json
+C:\Users\caiop\RiderProjects\Course\ImportProduct\bin\Debug\net7.0\ImportProduct.runtimeconfig.json
+C:\Users\caiop\RiderProjects\Course\ImportProduct\bin\Debug\net7.0\ImportProduct.dll
+C:\Users\caiop\RiderProjects\Course\ImportProduct\bin\Debug\net7.0\ImportProduct.pdb
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\ImportProduct.csproj.AssemblyReference.cache
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\ImportProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\ImportProduct.AssemblyInfoInputs.cache
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\ImportProduct.AssemblyInfo.cs
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\ImportProduct.csproj.CoreCompileInputs.cache
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\ImportProduct.dll
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\refint\ImportProduct.dll
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\ImportProduct.pdb
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\ImportProduct.genruntimeconfig.cache
+C:\Users\caiop\RiderProjects\Course\ImportProduct\obj\Debug\net7.0\ref\ImportProduct.dll

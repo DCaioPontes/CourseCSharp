@@ -19,8 +19,6 @@ K
 Shipping/Entities/Client.cs,f\7\f7288e223c93e62fb1b383881054742b6e09c335
 U
 %Shipping/Entities/Enum/OrderStatus.cs,4\1\4100e4bf8690451df2e6b7faab37ca6bd0d51882
-C
-Shipping/Program.cs,4\5\45d8d93cec3f5540a92629ec66c23d5fca155b80
 J
 Shipping/Entities/Order.cs,3\d\3def6e6ba88b9115cf15838788630c377368c1a0
 N
@@ -31,7 +29,5 @@ W
 'Inheritance/Entities/BussinesAccount.cs,3\f\3f5011d1569254836750881915e22c1d4390799a
 V
 &Inheritance/Entities/SavingsAccount.cs,4\2\42f8d37fe1a09a31c1658d61aafb76a41f6b997e
-F
-Inheritance/Program.cs,4\2\42b8e5fb4df8844ff50d61512052327cbae23a49
 A
 Worker/Program.cs,5\2\52105d67fabb56095ab9e8f4ae35c2c4c2ab1c42
