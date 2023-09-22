@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance Employee", "Inh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportProduct", "ImportProduct\ImportProduct.csproj", "{81AF462C-5FF4-4DC7-BCA6-061F1AE27025}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape", "Shape\Shape.csproj", "{00DE7415-1531-4B30-9D52-41DB2ED54B4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{81AF462C-5FF4-4DC7-BCA6-061F1AE27025}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81AF462C-5FF4-4DC7-BCA6-061F1AE27025}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81AF462C-5FF4-4DC7-BCA6-061F1AE27025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DE7415-1531-4B30-9D52-41DB2ED54B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DE7415-1531-4B30-9D52-41DB2ED54B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DE7415-1531-4B30-9D52-41DB2ED54B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DE7415-1531-4B30-9D52-41DB2ED54B4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

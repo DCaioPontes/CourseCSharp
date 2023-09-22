@@ -31,3 +31,34 @@ V
 &Inheritance/Entities/SavingsAccount.cs,4\2\42f8d37fe1a09a31c1658d61aafb76a41f6b997e
 A
 Worker/Program.cs,5\2\52105d67fabb56095ab9e8f4ae35c2c4c2ab1c42
+z
+JInheritance Employee/obj/Debug/net7.0/Inheritance Employee.AssemblyInfo.cs,a\e\aebd9b06bbcd53805814be3875444b2f55de9c0b
+:
+
+Course.sln,5\2\520909f442d37998b58d2ca7693d88759962ab6a
+`
+0Inheritance Employee/Inheritance Employee.csproj,c\6\c68af7a413a413a18f4988b3af3044125a3bc01b
+”
+dInheritance Employee/obj/Debug/net7.0/Inheritance Employee.GeneratedMSBuildEditorConfig.editorconfig,b\2\b272d5e458bd42bb84ede3ae45fbc74a4cba3ca9
+|
+LInheritance Employee/obj/Debug/net7.0/Inheritance Employee.GlobalUsings.g.cs,8\1\81abb9c73ddf5f7fbf4d9b2a5d884ac85f24da9d
+Z
+*Inheritance Employee/Enetities/Employee.cs,8\0\808cfe0e95dfbbc1a661949a6466abe1d105289d
+d
+4Inheritance Employee/Enetities/OutsourcedEmployee.cs,c\a\caca89cff89965b41f20c92ead668cf89fbdd365
+F
+Inheritance/Program.cs,4\2\42b8e5fb4df8844ff50d61512052327cbae23a49
+O
+Inheritance Employee/Program.cs,4\5\454e6cb50047c931d50b1a19b64f7f5fd8e08e07
+C
+Shipping/Program.cs,4\5\45d8d93cec3f5540a92629ec66c23d5fca155b80
+U
+%ImportProduct/Entities/UsedProduct.cs,6\6\668c9ff627f76ec83f4c1883e9f610c781d572a0
+@
+Shape/Program.cs,7\3\73838589303dc1900ff2aa300664f0b9e20aa4e8
+Y
+)ImportProduct/Entities/ImportedProduct.cs,f\8\f8ed11db59eca2d564a22f2070b3bc64c2da5a11
+Q
+!ImportProduct/Entities/Product.cs,a\4\a48cc57711abefab64fbf75ba98b6357d44ea8c3
+H
+ImportProduct/Program.cs,f\5\f56394f5e5db242a4bfc8be19093dad17a3c445f
